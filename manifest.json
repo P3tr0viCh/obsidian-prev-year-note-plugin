@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-prev-year-note-plugin",
+	"name": "Прошлогодняя заметка",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Открывает заметку за текущую дату в прошлом году",
+	"author": "П3тр0виЧъ",
+	"authorUrl": "https://github.com/P3tr0viCh",
+	"isDesktopOnly": false
+}
